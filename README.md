@@ -6,12 +6,20 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-API_Service-009688?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge)
 
-# Customer Feedback Analysis
+<p align="center">
+  <b>An end-to-end Natural Language Processing (NLP) sentiment analysis pipeline designed to process raw customer feedback, perform TF-IDF vectorization, train class-balanced machine learning models, evaluate performance metrics, and deliver real-time predictions.</b>
+</p>
 
-An end-to-end NLP project that analyzes customer reviews and predicts **positive, neutral, or negative sentiment**.
+---
 
-The project uses VADER to create sentiment labels from review text, spaCy for text cleaning and lemmatization, TF-IDF for feature extraction, and Logistic Regression for classification. A FastAPI service exposes the trained model through a local web application.
+<p align="center">
+  <img src="https://img.shields.io/badge/Algorithm-TF--IDF_Vectorization-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model-Logistic_Regression-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Handling-Class_Weight_Balanced-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metrics-F1_Score_%26_Confusion_Matrix-red?style=for-the-badge" />
+</p>
 
+---
 ## Local Web App
 
 The project includes a **Nordic Frost** frontend built with plain HTML, CSS, and JavaScript. You do **not** need React, Node.js, npm, or a separate frontend server.
