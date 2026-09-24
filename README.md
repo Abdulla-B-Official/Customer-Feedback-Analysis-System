@@ -1,3 +1,11 @@
+# Customer Feedback Analysis System
+
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-TF--IDF_%26_Logistic_Regression-F7931E?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-150458?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-API_Service-009688?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge)
+
 # Customer Feedback Analysis
 
 An end-to-end NLP project that analyzes customer reviews and predicts **positive, neutral, or negative sentiment**.
